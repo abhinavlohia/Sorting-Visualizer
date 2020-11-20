@@ -1,1 +1,1 @@
-Visualizer for all sorting algorithms
+Visualizer for 6 sorting algorithms
