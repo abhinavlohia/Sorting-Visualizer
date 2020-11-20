@@ -1,1 +1,1 @@
-A simple web-based visualizer for all the sorting algorithms.
+A simple web-based application to visualize all the sorting algorithms.
