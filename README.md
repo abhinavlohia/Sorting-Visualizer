@@ -1,1 +1,1 @@
-Visualizer for 6 sorting algorithms
+A simple web-based visualizer for all the sorting algorithms.
